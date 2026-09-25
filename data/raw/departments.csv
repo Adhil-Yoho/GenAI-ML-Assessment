@@ -1,0 +1,7 @@
+department_id,department,budget,division_head,target_headcount
+DEP001,Engineering,2500000,Sarah Connor,120
+DEP002,Data Science,1800000,Alex Mercer,80
+DEP003,Product Management,1200000,Elena Fisher,50
+DEP004,Marketing,950000,Arthur Pendelton,60
+DEP005,Human Resources,600000,Samantha Carter,40
+DEP006,Sales,2100000,Gordon Freeman,150

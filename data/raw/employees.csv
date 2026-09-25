@@ -1,0 +1,536 @@
+employee_id,first_name,last_name,age,gender,department_id,department,designation,salary,joining_date,experience,performance_score,city,status
+EMP0001,Michael,Perez,29.0,Non-Binary,DEP006,Sales,Junior,38349.0,25-11-2019,8,2.5,New York,Active
+EMP0002,Joseph,Anderson,54.0,Male,DEP002,Data Science,Mid-Level,85934.0,2024-02-03,29,3.5,San Francisco,Active
+EMP0003,John,White,28.0,Male,DEP003,Product Management,Lead,,2025-03-18,7,1.8,Boston,On Leave
+EMP0004,Charles,Williams,58.0,Male,DEP003,Product Management,Lead,115743.0,17-08-2023,36,1.7,Austin,Active
+EMP0005,David,Moore,44.0,Male,DEP003,Product Management,Lead,80180.0,2025/12/20,22,2.4,Boston,Terminated
+EMP0006,John,Hernandez,36.0,Male,DEP005,Human Resources,Mid-Level,53309.0,23-06-2018,13,4.2,Boston,Active
+EMP0007,Jessica,White,63.0,Female,DEP002,Data Science,Director,116982.0,2023-06-21,39,4.6,Seattle,Active
+EMP0008,David,Perez,30.0,Male,DEP002,Data Science,Lead,33585.0,2018/05/27,5,1.8,Chicago,Active
+EMP0009,Nancy,Brown,22.0,Male,DEP005,Human Resources,Lead,,21-05-2024,1,4.6,Boston,Active
+EMP0010,Richard,Jones,33.0,Male,DEP005,Human Resources,Manager,41952.0,27-04-2023,8,1.9,New York,On Leave
+EMP0011,Jessica,Johnson,53.0,Non-Binary,DEP003,Product Management,Junior,96032.0,2025-06-23,32,4.8,New York,On Leave
+EMP0012,Susan,Moore,30.0,Non-Binary,DEP002,Data Science,Mid-Level,37007.0,2022-06-28,6,2.1,Boston,Terminated
+EMP0013,Mary,Jackson,50.0,Non-Binary,DEP003,Product Management,Mid-Level,,30-11-2019,25,1.9,New York,Active
+EMP0014,William,White,24.0,Non-Binary,DEP001,Engineering,Manager,15326.67,2020-05-15,1,3.3,Atlanta,Active
+EMP0015,Patricia,Perez,28.0,Non-Binary,DEP002,Data Science,Junior,,2021-08-09,7,3.0,Atlanta,Active
+EMP0016,Sandra,Davis,34.0,Male,DEP002,Data Science,Lead,51786.0,03-08-2021,12,3.1,New York,Active
+EMP0017,Anthony,Thomas,56.0,Female,DEP006,Sales,Junior,95228.0,21-03-2025,35,,Seattle,Active
+EMP0018,Elizabeth,Miller,40.0,Male,DEP004,Marketing,Manager,59078.67,2024-08-30,16,4.9,Austin,Active
+EMP0019,Jennifer,Garcia,59.0,Male,DEP001,Engineering,Director,107404.67,09-07-2022,35,4.7,Chicago,Active
+EMP0020,Thomas,Miller,60.0,Female,DEP005,Human Resources,Mid-Level,114647.0,2023-08-05,39,1.8,Boston,Active
+EMP0021,Susan,Taylor,42.0,Female,DEP004,Marketing,Junior,60318.67,2022/10/16,21,3.1,San Francisco,Active
+EMP0022,Michael,Jones,41.0,Male,DEP005,Human Resources,Director,60223.0,2018-01-25,16,3.8,Chicago,Active
+EMP0023,Patricia,Williams,43.0,Female,DEP006,Sales,Junior,,2020-03-31,21,3.7,Boston,Active
+EMP0024,Elizabeth,Moore,,Female,DEP002,Data Science,Manager,87061.0,31-01-2018,25,3.0,New York,Active
+EMP0025,Anthony,Martin,24.0,Male,DEP003,Product Management,Mid-Level,20141.0,04-09-2023,1,3.9,Seattle,Active
+EMP0026,Michael,Gonzalez,43.0,Female,DEP002,Data Science,Mid-Level,73643.0,2024-04-02,19,3.8,Austin,Active
+EMP0027,Robert,Rodriguez,36.0,Non-Binary,DEP002,Data Science,Lead,61313.0,16-10-2020,15,2.2,Austin,Active
+EMP0028,Margaret,Lopez,38.0,Female,DEP001,Engineering,Lead,61178.67,04-04-2020,16,4.9,Seattle,On Leave
+EMP0029,Richard,Lopez,38.0,Non-Binary,DEP002,Data Science,Senior,67112.0,2022-06-04,17,3.0,New York,Terminated
+EMP0030,Richard,Wilson,54.0,Female,DEP003,Product Management,Director,102626.0,2021-06-04,31,2.9,Chicago,Active
+EMP0031,Christopher,Anderson,57.0,Non-Binary,DEP004,Marketing,Mid-Level,102644.67,2021-08-28,36,2.5,Atlanta,Terminated
+EMP0032,Jessica,Perez,27.0,Male,DEP002,Data Science,Mid-Level,,2023-04-08,4,3.8,Seattle,On Leave
+EMP0033,Betty,Davis,51.0,Non-Binary,DEP001,Engineering,Junior,93684.67,2019-08-28,27,3.7,New York,Active
+EMP0034,William,Anderson,33.0,Non-Binary,DEP002,Data Science,Manager,40611.0,2020/02/14,8,1.7,Seattle,On Leave
+EMP0035,Mark,Anderson,54.0,Male,DEP006,Sales,Director,94808.0,2021-10-17,30,4.7,Seattle,Terminated
+EMP0036,Christopher,Moore,39.0,Male,DEP002,Data Science,Mid-Level,51769.0,30-12-2019,15,4.0,San Francisco,Active
+EMP0037,Anthony,Gonzalez,48.0,Non-Binary,DEP004,Marketing,Director,,13-07-2018,25,3.1,Chicago,Active
+EMP0038,Joseph,Thomas,22.0,Female,DEP004,Marketing,Lead,,2025-04-05,0,4.1,Boston,Active
+EMP0039,Betty,Jackson,32.0,Male,DEP006,Sales,Junior,28291.0,18-07-2022,8,4.9,Seattle,Active
+EMP0040,Sarah,Wilson,38.0,Male,DEP001,Engineering,Lead,,2020-10-12,14,2.2,Austin,Active
+EMP0041,Mary,Martin,26.0,Male,DEP006,Sales,Lead,31057.0,08-02-2020,5,1.6,San Francisco,Active
+EMP0042,David,Martinez,38.0,Male,DEP006,Sales,Senior,46449.0,2024-05-12,15,3.6,Seattle,Active
+EMP0043,Karen,Perez,34.0,Male,DEP006,Sales,Manager,48400.0,03-05-2023,13,3.9,Seattle,Terminated
+EMP0044,Margaret,Lopez,26.0,Female,DEP003,Product Management,Director,27309.0,2025-03-24,1,2.7,Chicago,Terminated
+EMP0045,Christopher,Davis,61.0,Male,DEP003,Product Management,Senior,116891.0,2021-09-15,36,3.2,Seattle,On Leave
+EMP0046,Susan,Lopez,46.0,Female,DEP005,Human Resources,Senior,64970.0,06-10-2020,23,3.2,Austin,On Leave
+EMP0047,Mark,Lee,55.0,Female,DEP001,Engineering,Junior,95568.67,2021-06-16,33,2.3,Boston,Active
+EMP0048,Nancy,Lopez,59.0,Female,DEP003,Product Management,Senior,111953.0,2020-12-04,36,3.4,San Francisco,Active
+EMP0049,Charles,Brown,56.0,Female,DEP001,Engineering,Mid-Level,99804.67,13-02-2022,34,2.3,Boston,On Leave
+EMP0050,Ashley,Brown,39.0,Non-Binary,DEP002,Data Science,Senior,58893.0,2023-12-07,18,3.4,San Francisco,Active
+EMP0051,Patricia,Jones,52.0,Non-Binary,DEP003,Product Management,Senior,105169.0,08-03-2022,31,1.7,Chicago,Active
+EMP0052,Margaret,Martinez,60.0,Male,DEP005,Human Resources,Manager,98197.0,2021-03-27,35,4.2,Atlanta,Active
+EMP0053,Robert,Garcia,,Female,DEP006,Sales,Director,47020.0,16-01-2020,12,1.8,San Francisco,Active
+EMP0054,Richard,Wilson,40.0,Male,DEP006,Sales,Director,47366.0,10-11-2025,16,3.9,San Francisco,Active
+EMP0055,Sandra,Thompson,32.0,Female,DEP001,Engineering,Senior,43915.67,2022-11-04,9,4.1,New York,On Leave
+EMP0056,Mary,Perez,49.0,Non-Binary,DEP001,Engineering,Junior,86557.67,11-10-2018,26,2.4,Chicago,Terminated
+EMP0057,Daniel,Wilson,39.0,Non-Binary,DEP004,Marketing,Junior,59756.67,2024/12/04,17,3.0,Boston,Active
+EMP0058,Linda,Gonzalez,47.0,Male,DEP003,Product Management,Director,69801.0,04-09-2020,22,3.1,New York,Active
+EMP0059,William,Martinez,45.0,Non-Binary,DEP005,Human Resources,Lead,69393.0,2021-10-05,20,3.2,Chicago,Active
+EMP0060,Linda,Anderson,32.0,Non-Binary,DEP006,Sales,Mid-Level,37724.0,21-06-2021,9,1.5,Chicago,Terminated
+EMP0061,Richard,Martin,48.0,Male,DEP003,Product Management,Junior,81936.0,09-09-2022,24,2.4,Seattle,Active
+EMP0062,Ashley,Jones,39.0,Female,DEP005,Human Resources,Senior,56634.0,2025-02-14,18,4.0,Seattle,Active
+EMP0063,Mark,Thompson,34.0,Female,DEP003,Product Management,Lead,53568.0,2025/04/13,12,2.8,Boston,Active
+EMP0064,Donald,Brown,24.0,Female,DEP004,Marketing,Junior,20895.67,2020-10-28,2,4.9,Boston,Active
+EMP0065,Matthew,Hernandez,52.0,Female,DEP001,Engineering,Manager,,2021-05-19,29,3.7,Boston,Terminated
+EMP0066,Donald,Garcia,36.0,Male,DEP003,Product Management,Junior,58810.0,2024-06-20,15,4.9,Austin,Active
+EMP0067,Jennifer,Martin,31.0,Non-Binary,DEP004,Marketing,Director,38868.67,2023/10/20,9,2.9,San Francisco,Active
+EMP0068,Charles,Perez,62.0,Male,DEP004,Marketing,Lead,112695.67,2018-01-30,39,2.4,Austin,Terminated
+EMP0069,Matthew,Jackson,38.0,Female,DEP004,Marketing,Director,56515.67,2021/04/10,14,2.6,Boston,Active
+EMP0070,Ashley,Martinez,22.0,Male,DEP003,Product Management,Manager,28373.0,2024-05-02,0,3.9,San Francisco,On Leave
+EMP0071,Lisa,White,30.0,Female,DEP003,Product Management,Senior,51501.0,2018-05-03,9,3.7,San Francisco,On Leave
+EMP0072,Mark,Martinez,55.0,Female,DEP003,Product Management,Junior,104166.0,27-05-2019,30,2.5,Atlanta,Active
+EMP0073,Linda,Anderson,47.0,Non-Binary,DEP006,Sales,Director,67192.0,10-05-2021,22,1.8,Boston,Active
+EMP0074,Robert,Lee,36.0,Non-Binary,DEP001,Engineering,Senior,42076.67,2022-10-11,12,3.7,New York,Active
+EMP0075,Sandra,Lopez,53.0,Non-Binary,DEP003,Product Management,Director,95792.0,29-07-2022,32,2.3,Boston,Terminated
+EMP0076,Lisa,Miller,48.0,Male,DEP002,Data Science,Senior,94159.0,2021-06-21,27,3.2,Chicago,Terminated
+EMP0077,Jennifer,Perez,25.0,Non-Binary,DEP003,Product Management,Manager,21220.0,2019-01-15,1,2.2,Austin,Active
+EMP0078,Susan,Davis,58.0,Male,DEP002,Data Science,Manager,,18-09-2022,36,4.4,San Francisco,Active
+EMP0079,Daniel,Davis,38.0,Male,DEP005,Human Resources,Mid-Level,48801.0,22-03-2018,16,3.8,Seattle,On Leave
+EMP0080,Joseph,Martin,,Non-Binary,DEP001,Engineering,Manager,24010.67,2022-05-14,2,4.2,New York,Active
+EMP0081,Jennifer,Hernandez,47.0,Male,DEP004,Marketing,Mid-Level,76407.67,2024/01/23,23,1.9,Chicago,Terminated
+EMP0082,Linda,Lee,46.0,Non-Binary,DEP003,Product Management,Director,75392.0,2022/04/20,21,2.5,San Francisco,Active
+EMP0083,Lisa,Jones,51.0,Female,DEP003,Product Management,Junior,88515.0,2020-08-29,27,4.1,Seattle,Active
+EMP0084,Anthony,Lopez,45.0,Female,DEP006,Sales,Director,,2022-10-11,23,1.7,Austin,Active
+EMP0085,Michael,Lopez,58.0,Female,DEP001,Engineering,Junior,97651.67,07-02-2022,33,2.0,Atlanta,Active
+EMP0086,Sarah,Smith,61.0,Non-Binary,DEP005,Human Resources,Senior,108058.0,2018-03-23,36,3.7,San Francisco,Active
+EMP0087,Susan,Gonzalez,47.0,Female,DEP005,Human Resources,Mid-Level,74324.0,06-04-2018,26,4.1,Atlanta,On Leave
+EMP0088,Jennifer,Rodriguez,27.0,Female,DEP005,Human Resources,Lead,24549.0,04-04-2023,6,2.1,San Francisco,On Leave
+EMP0089,Karen,Johnson,44.0,Non-Binary,DEP001,Engineering,Junior,,2023-10-09,20,2.5,San Francisco,Active
+EMP0090,Joseph,Taylor,40.0,Non-Binary,DEP003,Product Management,Senior,,2024/05/09,17,1.5,New York,Active
+EMP0091,Anthony,Martinez,51.0,Male,DEP001,Engineering,Senior,100790.67,2021-08-26,30,2.6,Seattle,Terminated
+EMP0092,Betty,Martinez,27.0,Male,DEP003,Product Management,Senior,35536.0,2021-09-15,3,1.9,Boston,Active
+EMP0093,Elizabeth,Davis,54.0,Female,DEP005,Human Resources,Mid-Level,101842.0,2020-12-26,32,4.2,Atlanta,Terminated
+EMP0094,Christopher,Lee,33.0,Female,DEP001,Engineering,Junior,41767.67,2024-06-18,9,4.1,Atlanta,Active
+EMP0095,Charles,Williams,25.0,Male,DEP005,Human Resources,Manager,20312.0,2021/12/05,2,1.8,Chicago,On Leave
+EMP0096,Mark,Taylor,24.0,Male,DEP006,Sales,Lead,21093.0,19-07-2023,0,4.3,Austin,Terminated
+EMP0097,David,Lopez,54.0,Female,DEP001,Engineering,Lead,92307.67,2021-09-22,32,2.4,Chicago,Active
+EMP0098,Elizabeth,Hernandez,63.0,Non-Binary,DEP006,Sales,Mid-Level,107279.0,2022-09-30,40,2.7,Boston,Terminated
+EMP0099,Nancy,Jones,47.0,Non-Binary,DEP006,Sales,Director,78449.0,2018-09-21,25,4.0,Boston,Active
+EMP0100,Richard,Davis,45.0,Male,DEP005,Human Resources,Junior,72940.0,2019-10-28,24,2.6,Chicago,On Leave
+EMP0101,Elizabeth,Garcia,55.0,Non-Binary,DEP006,Sales,Manager,102045.0,2024-07-08,34,2.7,Seattle,Active
+EMP0102,Jessica,Martinez,45.0,Female,DEP004,Marketing,Mid-Level,72443.67,2024-05-26,23,3.6,Seattle,Active
+EMP0103,William,Rodriguez,46.0,Female,DEP003,Product Management,Senior,75341.0,2019-05-19,21,3.0,Atlanta,On Leave
+EMP0104,Margaret,Williams,40.0,Male,DEP001,Engineering,Lead,71668.67,2021/10/27,19,2.1,Seattle,Active
+EMP0105,Michael,Thompson,54.0,Male,DEP004,Marketing,Mid-Level,,2018/09/11,31,2.9,Seattle,Terminated
+EMP0106,Susan,Jones,52.0,Non-Binary,DEP002,Data Science,Manager,93081.0,04-09-2018,28,1.5,Austin,Active
+EMP0107,Ashley,Martin,29.0,Non-Binary,DEP003,Product Management,Manager,38106.0,2024/10/02,8,3.0,Austin,Active
+EMP0108,Lisa,Williams,61.0,Non-Binary,DEP001,Engineering,Manager,110607.67,2019/08/05,38,3.5,New York,Active
+EMP0109,Jessica,White,24.0,Male,DEP004,Marketing,Manager,13782.67,2018/02/20,0,2.4,New York,Active
+EMP0110,Barbara,Jones,43.0,Female,DEP005,Human Resources,Junior,73105.0,2021-12-14,21,4.2,San Francisco,Active
+EMP0111,Richard,Martinez,41.0,Male,DEP003,Product Management,Director,60724.0,2022/08/15,16,5.0,Austin,Active
+EMP0112,Sarah,Williams,50.0,Male,DEP004,Marketing,Lead,78220.67,2022-03-22,26,4.9,Chicago,Active
+EMP0113,David,Thompson,28.0,Female,DEP003,Product Management,Junior,37072.0,2020-08-10,7,3.8,Chicago,Active
+EMP0114,David,Smith,62.0,Non-Binary,DEP003,Product Management,Director,117929.0,2021-06-16,41,3.8,New York,Active
+EMP0115,Lisa,Lopez,45.0,Male,DEP006,Sales,Manager,67472.0,2018-04-11,22,4.8,Austin,Terminated
+EMP0116,Linda,Rodriguez,37.0,Non-Binary,DEP003,Product Management,Lead,54624.0,2022-03-31,16,4.1,Boston,Active
+EMP0117,Jennifer,Perez,29.0,Female,DEP002,Data Science,Director,44472.0,2019-06-21,7,1.8,Chicago,Active
+EMP0118,Richard,Jones,32.0,Female,DEP003,Product Management,Junior,52203.0,28-11-2019,10,2.8,Seattle,On Leave
+EMP0119,Anthony,Jackson,61.0,Female,DEP002,Data Science,Director,,2024-02-06,40,2.6,Chicago,Active
+EMP0120,Patricia,Brown,57.0,Female,DEP002,Data Science,Mid-Level,95981.0,2019-02-05,32,4.2,San Francisco,Active
+EMP0121,Karen,Martin,40.0,Non-Binary,DEP005,Human Resources,Director,58605.0,08-09-2022,19,2.2,San Francisco,Active
+EMP0122,Mary,Williams,,Non-Binary,DEP006,Sales,Manager,101731.0,18-10-2022,36,4.4,Chicago,Active
+EMP0123,Karen,Thomas,62.0,Non-Binary,DEP005,Human Resources,Lead,117659.0,23-08-2022,41,4.6,New York,Active
+EMP0124,Christopher,White,48.0,Female,DEP004,Marketing,Lead,75275.67,28-02-2023,24,2.2,Chicago,Active
+EMP0125,Patricia,Martinez,37.0,Non-Binary,DEP003,Product Management,Lead,48707.0,10-02-2020,13,2.4,San Francisco,Active
+EMP0126,Ashley,Smith,42.0,Female,DEP005,Human Resources,Manager,69502.0,2022-05-19,20,2.1,Chicago,Active
+EMP0127,James,Brown,25.0,Female,DEP001,Engineering,Director,24774.67,2025-03-03,2,3.6,New York,Active
+EMP0128,Donald,Moore,58.0,Non-Binary,DEP001,Engineering,Director,97355.67,15-06-2020,33,2.8,New York,Active
+EMP0129,John,Johnson,,Non-Binary,DEP003,Product Management,Senior,65190.0,2019-09-11,18,4.1,San Francisco,On Leave
+EMP0130,Karen,Jackson,30.0,Non-Binary,DEP005,Human Resources,Manager,34544.0,2021-05-05,7,2.6,Seattle,Active
+EMP0131,Mary,Martin,43.0,Non-Binary,DEP003,Product Management,Manager,76024.0,2024-10-11,22,3.5,Chicago,Active
+EMP0132,Linda,Miller,,Female,DEP002,Data Science,Lead,100691.0,2019-04-05,30,4.4,Seattle,On Leave
+EMP0133,Mark,Taylor,52.0,Male,DEP005,Human Resources,Lead,96063.0,2019-10-07,31,2.0,Austin,Terminated
+EMP0134,Karen,Davis,63.0,Female,DEP006,Sales,Senior,116195.0,05-02-2020,40,3.2,Seattle,Active
+EMP0135,Matthew,Gonzalez,44.0,Male,DEP004,Marketing,Senior,,13-06-2020,19,4.0,New York,Active
+EMP0136,Sarah,Jones,63.0,Non-Binary,DEP004,Marketing,Manager,119910.67,2019-09-20,40,3.2,Chicago,Active
+EMP0137,William,Smith,36.0,Male,DEP006,Sales,Lead,45341.0,2024-02-07,15,2.9,Seattle,Active
+EMP0138,Joseph,Moore,34.0,Male,DEP006,Sales,Mid-Level,38962.0,2018/07/03,11,2.5,New York,Active
+EMP0139,Nancy,Martinez,33.0,Non-Binary,DEP004,Marketing,Manager,47030.67,2020/07/16,10,1.6,San Francisco,On Leave
+EMP0140,Barbara,Smith,39.0,Female,DEP004,Marketing,Manager,63417.67,2019-05-20,17,1.9,Chicago,Terminated
+EMP0141,William,Thomas,49.0,Male,DEP004,Marketing,Junior,73038.67,11-09-2023,24,1.8,Atlanta,Active
+EMP0142,Patricia,Perez,41.0,Female,DEP003,Product Management,Mid-Level,66043.0,2020-03-23,16,3.5,Boston,Active
+EMP0143,Sandra,White,29.0,Female,DEP006,Sales,Lead,27221.0,2019-11-12,6,3.7,Atlanta,On Leave
+EMP0144,Lisa,Williams,35.0,Male,DEP006,Sales,Junior,49846.0,2025-06-05,13,4.1,San Francisco,On Leave
+EMP0145,Susan,Thompson,31.0,Male,DEP005,Human Resources,Manager,34875.0,04-10-2021,9,4.5,San Francisco,On Leave
+EMP0146,Betty,Rodriguez,51.0,Non-Binary,DEP004,Marketing,Mid-Level,73611.67,2023-09-22,26,3.5,Austin,Terminated
+EMP0147,Barbara,Jones,56.0,Non-Binary,DEP001,Engineering,Director,113816.67,2025-12-11,35,1.7,Seattle,Active
+EMP0148,Daniel,Brown,46.0,Non-Binary,DEP004,Marketing,Lead,81351.67,2025-06-10,25,4.9,San Francisco,Active
+EMP0149,Jessica,Anderson,41.0,Female,DEP001,Engineering,Mid-Level,65200.67,2021-08-10,17,4.0,New York,Active
+EMP0150,Susan,Williams,48.0,Male,DEP006,Sales,Lead,76251.0,25-07-2025,23,4.8,New York,Active
+EMP0151,William,Taylor,24.0,Male,DEP006,Sales,Director,13391.0,2019-11-07,0,2.3,Atlanta,Terminated
+EMP0152,Sarah,Johnson,37.0,Non-Binary,DEP003,Product Management,Director,63556.0,2023-08-14,14,2.0,Seattle,On Leave
+EMP0153,Anthony,Jones,25.0,Male,DEP004,Marketing,Manager,23206.67,2024-09-07,2,3.8,Austin,Terminated
+EMP0154,Jessica,Rodriguez,51.0,Non-Binary,DEP002,Data Science,Junior,97214.0,2021/07/18,30,2.9,New York,On Leave
+EMP0155,Richard,Jackson,34.0,Non-Binary,DEP006,Sales,Mid-Level,43098.0,2023-02-23,13,2.8,Austin,Active
+EMP0156,Susan,Gonzalez,35.0,Non-Binary,DEP001,Engineering,Senior,56314.67,2024-06-01,13,1.9,Chicago,Terminated
+EMP0157,Mark,Hernandez,41.0,Female,DEP003,Product Management,Senior,65092.0,2022-03-25,18,3.3,San Francisco,Terminated
+EMP0158,Richard,Hernandez,23.0,Non-Binary,DEP002,Data Science,Mid-Level,22065.0,2022-12-05,0,4.8,Boston,Active
+EMP0159,Ashley,Garcia,53.0,Non-Binary,DEP003,Product Management,Director,94250.0,2024/10/05,29,2.1,Atlanta,Active
+EMP0160,Elizabeth,Smith,25.0,Female,DEP006,Sales,Senior,,14-05-2023,4,2.0,Chicago,Active
+EMP0161,Sarah,Moore,53.0,Male,DEP006,Sales,Manager,86308.0,01-07-2021,32,3.4,Atlanta,Active
+EMP0162,Sarah,Gonzalez,28.0,Female,DEP001,Engineering,Lead,21605.67,2023-04-10,3,2.3,San Francisco,Active
+EMP0163,James,Thompson,27.0,Female,DEP006,Sales,Lead,22731.0,2021/03/17,6,2.9,Atlanta,Active
+EMP0164,John,Williams,24.0,Female,DEP005,Human Resources,Manager,15463.0,2023-11-21,2,4.7,Atlanta,Active
+EMP0165,Karen,Garcia,35.0,Non-Binary,DEP001,Engineering,Lead,39028.67,2024-01-24,10,4.1,Seattle,Terminated
+EMP0166,Joseph,Williams,27.0,Non-Binary,DEP002,Data Science,Manager,30213.0,16-06-2018,2,4.9,New York,Terminated
+EMP0167,Matthew,Williams,50.0,Female,DEP003,Product Management,Mid-Level,82937.0,2021-03-12,26,2.7,San Francisco,Active
+EMP0168,James,Martinez,62.0,Female,DEP006,Sales,Junior,118318.0,25-01-2021,40,2.9,Seattle,On Leave
+EMP0169,Christopher,Gonzalez,,Female,DEP005,Human Resources,Lead,83692.0,2021-01-04,30,1.6,Chicago,Active
+EMP0170,Sarah,Thomas,55.0,Male,DEP005,Human Resources,Lead,100728.0,08-03-2019,33,2.8,Atlanta,Active
+EMP0171,William,Martinez,,Female,DEP003,Product Management,Senior,66011.0,2023-01-19,16,3.7,Atlanta,Active
+EMP0172,Christopher,Martin,43.0,Male,DEP004,Marketing,Lead,68526.67,2023/07/16,19,4.4,Austin,Active
+EMP0173,Betty,Lopez,62.0,Non-Binary,DEP006,Sales,Mid-Level,110635.0,2020-10-09,38,4.2,Boston,On Leave
+EMP0174,Anthony,Perez,51.0,Non-Binary,DEP001,Engineering,Senior,91349.67,2025-01-26,29,4.3,Boston,Active
+EMP0175,Anthony,Moore,,Female,DEP004,Marketing,Director,22462.67,2021-05-30,2,3.2,Boston,Active
+EMP0176,Betty,Hernandez,37.0,Female,DEP001,Engineering,Junior,,2018-05-18,14,3.8,Chicago,Terminated
+EMP0177,Elizabeth,Lopez,57.0,Female,DEP005,Human Resources,Junior,98266.0,2021-10-16,32,3.5,New York,Active
+EMP0178,Mark,Lopez,31.0,Female,DEP006,Sales,Director,31310.0,02-09-2024,8,2.7,Austin,Active
+EMP0179,Jessica,Taylor,29.0,Male,DEP006,Sales,Senior,40112.0,2018/12/06,8,2.7,San Francisco,Active
+EMP0180,Richard,Anderson,33.0,Female,DEP006,Sales,Junior,44193.0,14-05-2021,11,3.8,Atlanta,Terminated
+EMP0181,Linda,Rodriguez,58.0,Female,DEP001,Engineering,Manager,117265.67,2019/08/04,37,4.6,Seattle,On Leave
+EMP0182,Karen,Martin,59.0,Non-Binary,DEP004,Marketing,Mid-Level,108366.67,2021-11-23,38,2.7,New York,Active
+EMP0183,Ashley,Lee,31.0,Non-Binary,DEP003,Product Management,Mid-Level,35564.0,2019-03-05,6,3.0,San Francisco,Active
+EMP0184,Matthew,Moore,50.0,Female,DEP003,Product Management,Lead,77578.0,2018/01/30,25,4.5,Atlanta,Active
+EMP0185,John,Rodriguez,32.0,Female,DEP004,Marketing,Mid-Level,44429.67,22-06-2024,11,1.6,Atlanta,Active
+EMP0186,John,White,54.0,Male,DEP005,Human Resources,Lead,98883.0,2024-08-05,33,1.9,Atlanta,Active
+EMP0187,Linda,Davis,24.0,Non-Binary,DEP003,Product Management,Manager,18505.0,12-12-2024,0,2.7,Chicago,Terminated
+EMP0188,Patricia,Jackson,32.0,Female,DEP004,Marketing,Manager,27447.67,02-12-2024,7,4.2,Boston,Active
+EMP0189,Anthony,Johnson,58.0,Non-Binary,DEP003,Product Management,Mid-Level,115757.0,2025/08/28,35,3.3,San Francisco,Terminated
+EMP0190,Anthony,Gonzalez,37.0,Non-Binary,DEP003,Product Management,Junior,54719.0,19-05-2023,13,2.0,Boston,Active
+EMP0191,Sandra,Lee,53.0,Female,DEP004,Marketing,Junior,92200.67,2024/08/02,30,1.5,Seattle,Active
+EMP0192,Ashley,Hernandez,39.0,Male,DEP004,Marketing,Junior,61237.67,2022-08-28,16,2.5,Seattle,Active
+EMP0193,William,Lee,32.0,Female,DEP001,Engineering,Junior,39145.67,22-08-2021,8,1.5,Austin,Terminated
+EMP0194,Jennifer,Thompson,32.0,Male,DEP006,Sales,Lead,,2024-03-05,11,3.7,Chicago,Terminated
+EMP0195,William,Thomas,22.0,Female,DEP004,Marketing,Junior,21562.67,2019-01-10,1,2.7,Austin,Active
+EMP0196,Elizabeth,Williams,30.0,Male,DEP003,Product Management,Manager,41872.0,09-06-2025,6,4.3,Boston,Active
+EMP0197,Michael,Jones,31.0,Non-Binary,DEP006,Sales,Director,33793.0,25-04-2025,7,3.9,Austin,Active
+EMP0198,Mary,Perez,39.0,Male,DEP002,Data Science,Manager,62065.0,2023-02-08,18,3.4,Seattle,Active
+EMP0199,James,Lopez,25.0,Male,DEP006,Sales,Lead,21808.0,2020-01-20,3,2.9,Austin,On Leave
+EMP0200,Thomas,Miller,,Male,DEP006,Sales,Lead,41321.0,30-12-2022,9,1.8,Chicago,Active
+EMP0201,Jennifer,Martinez,47.0,Male,DEP004,Marketing,Mid-Level,83160.67,29-03-2023,26,3.4,Boston,Terminated
+EMP0202,Jessica,Williams,63.0,Male,DEP006,Sales,Lead,116281.0,2024-03-17,42,3.9,Boston,Terminated
+EMP0203,Ashley,Lopez,33.0,Non-Binary,DEP006,Sales,Senior,36407.0,20-12-2023,12,4.0,Atlanta,Active
+EMP0204,Robert,Thomas,29.0,Female,DEP006,Sales,Junior,31688.0,2020-04-25,8,4.3,Austin,Active
+EMP0205,James,Davis,,Female,DEP003,Product Management,Lead,32744.0,2019/12/11,3,4.0,Atlanta,Active
+EMP0206,Robert,Jackson,63.0,Non-Binary,DEP005,Human Resources,Director,108178.0,2021-07-17,39,2.6,Atlanta,On Leave
+EMP0207,Jennifer,Moore,47.0,Female,DEP001,Engineering,Mid-Level,91034.67,2020-05-27,26,3.1,Boston,On Leave
+EMP0208,Jessica,Jones,,Female,DEP002,Data Science,Junior,92694.0,2024-07-28,28,4.9,Atlanta,Terminated
+EMP0209,Susan,Taylor,43.0,Female,DEP001,Engineering,Lead,79100.67,2025-03-22,22,3.8,San Francisco,Terminated
+EMP0210,Sandra,White,27.0,Male,DEP003,Product Management,Manager,32992.0,2022-06-03,6,4.6,New York,On Leave
+EMP0211,Christopher,Gonzalez,25.0,Non-Binary,DEP005,Human Resources,Senior,20353.0,06-01-2020,1,4.9,New York,Active
+EMP0212,Daniel,Miller,59.0,Female,DEP002,Data Science,Senior,110546.0,2021-10-28,38,1.9,Atlanta,Terminated
+EMP0213,Jessica,Lopez,60.0,Male,DEP003,Product Management,Director,115222.0,15-10-2020,39,4.4,San Francisco,Active
+EMP0214,William,Brown,,Male,DEP004,Marketing,Mid-Level,82422.67,2018-10-22,25,3.4,Boston,Terminated
+EMP0215,Robert,Miller,27.0,Female,DEP006,Sales,Mid-Level,20802.0,30-11-2024,2,2.4,Atlanta,Active
+EMP0216,Ashley,Smith,24.0,Female,DEP001,Engineering,Mid-Level,12495.67,2022-11-18,0,2.1,Austin,Active
+EMP0217,Mark,Johnson,31.0,Female,DEP004,Marketing,Mid-Level,42727.67,2020-02-03,10,3.7,Atlanta,On Leave
+EMP0218,Ashley,Lopez,62.0,Non-Binary,DEP002,Data Science,Senior,118522.0,2021-04-03,37,1.6,Austin,On Leave
+EMP0219,Joseph,Garcia,23.0,Non-Binary,DEP002,Data Science,Mid-Level,13959.0,2022-01-05,0,4.3,Boston,Active
+EMP0220,Jessica,Jackson,58.0,Non-Binary,DEP002,Data Science,Director,103813.0,11-03-2025,34,4.8,Boston,Terminated
+EMP0221,Ashley,Moore,58.0,Female,DEP003,Product Management,Junior,99028.0,2019-08-08,33,3.5,San Francisco,Active
+EMP0222,Barbara,Hernandez,52.0,Male,DEP005,Human Resources,Manager,89935.0,2019-09-18,31,4.7,New York,On Leave
+EMP0223,Christopher,Jones,26.0,Non-Binary,DEP003,Product Management,Lead,33243.0,2021-05-14,3,4.8,Boston,Active
+EMP0224,Karen,White,57.0,Male,DEP002,Data Science,Mid-Level,105894.0,2023/08/30,32,2.7,Chicago,Active
+EMP0225,Michael,Thomas,24.0,Non-Binary,DEP005,Human Resources,Junior,21869.0,2024-11-17,2,2.6,San Francisco,Terminated
+EMP0226,Robert,Lopez,62.0,Male,DEP001,Engineering,Director,,14-10-2019,39,1.5,Boston,Active
+EMP0227,Joseph,Garcia,48.0,Male,DEP002,Data Science,Senior,,2022-08-24,24,2.8,New York,Active
+EMP0228,Nancy,Martin,32.0,Female,DEP003,Product Management,Director,,2022-08-27,8,4.1,San Francisco,On Leave
+EMP0229,Thomas,Perez,32.0,Male,DEP004,Marketing,Junior,,2019-08-14,11,2.7,Atlanta,Active
+EMP0230,Mark,Miller,25.0,Male,DEP002,Data Science,Mid-Level,18062.0,2020-07-04,2,3.0,Seattle,Active
+EMP0231,Matthew,Garcia,47.0,Female,DEP003,Product Management,Senior,79713.0,03-04-2020,23,4.6,Seattle,Active
+EMP0232,Daniel,Moore,36.0,Non-Binary,DEP003,Product Management,Mid-Level,55944.0,2024/05/26,13,1.7,Atlanta,On Leave
+EMP0233,Betty,Thompson,,Non-Binary,DEP004,Marketing,Manager,97049.67,19-01-2022,32,4.6,Chicago,Active
+EMP0234,John,Wilson,50.0,Non-Binary,DEP001,Engineering,Lead,84404.67,16-11-2024,28,4.9,San Francisco,On Leave
+EMP0235,Sandra,Smith,42.0,Non-Binary,DEP003,Product Management,Manager,68125.0,2021-05-19,21,2.9,Seattle,Active
+EMP0236,Michael,Jackson,58.0,Female,DEP002,Data Science,Manager,105046.0,29-12-2025,33,4.2,Austin,Active
+EMP0237,Elizabeth,Martin,53.0,Non-Binary,DEP006,Sales,Lead,,20-06-2019,28,3.2,Austin,Terminated
+EMP0238,Karen,Rodriguez,25.0,Non-Binary,DEP002,Data Science,Director,19900.0,2018-03-04,1,4.6,San Francisco,Active
+EMP0239,Susan,Wilson,50.0,Non-Binary,DEP006,Sales,Senior,78114.0,2023/02/23,27,4.1,San Francisco,Active
+EMP0240,Richard,Miller,54.0,Male,DEP003,Product Management,Junior,91422.0,2022/06/17,30,4.2,Boston,Active
+EMP0241,Mary,Davis,45.0,Non-Binary,DEP003,Product Management,Lead,74975.0,07-11-2025,21,2.9,Chicago,On Leave
+EMP0242,Mary,Gonzalez,,Non-Binary,DEP003,Product Management,Mid-Level,82924.0,2024/05/15,22,4.6,Boston,Active
+EMP0243,Mark,Jones,63.0,Non-Binary,DEP003,Product Management,Junior,120109.0,2024-08-21,39,1.6,Austin,Terminated
+EMP0244,Sandra,Martinez,63.0,Non-Binary,DEP006,Sales,Lead,113143.0,2025-03-30,40,,Boston,Active
+EMP0245,Robert,Hernandez,63.0,Non-Binary,DEP005,Human Resources,Senior,111978.0,28-10-2023,38,2.5,Boston,Terminated
+EMP0246,Betty,Perez,34.0,Male,DEP003,Product Management,Director,,27-08-2025,12,4.2,Austin,Active
+EMP0247,Nancy,White,47.0,Non-Binary,DEP004,Marketing,Manager,77236.67,2024-01-09,23,1.6,Boston,Active
+EMP0248,Michael,Thomas,41.0,Female,DEP005,Human Resources,Director,68273.0,01-10-2022,19,3.8,San Francisco,Terminated
+EMP0249,Nancy,Lopez,63.0,Female,DEP003,Product Management,Lead,122841.0,2024-05-01,42,2.7,Atlanta,Terminated
+EMP0250,Matthew,Taylor,59.0,Male,DEP005,Human Resources,Mid-Level,93166.0,2019-08-28,34,3.2,Seattle,On Leave
+EMP0251,Nancy,Lee,31.0,Female,DEP004,Marketing,Director,,17-08-2024,8,4.0,San Francisco,Active
+EMP0252,Margaret,Lee,32.0,Female,DEP005,Human Resources,Lead,39864.0,01-10-2018,8,4.2,San Francisco,Terminated
+EMP0253,James,Lee,22.0,Male,DEP003,Product Management,Director,26600.0,16-08-2019,0,4.4,New York,Active
+EMP0254,Charles,Anderson,59.0,Non-Binary,DEP005,Human Resources,Manager,99736.0,23-05-2018,36,1.7,San Francisco,Active
+EMP0255,Joseph,White,44.0,Male,DEP004,Marketing,Director,,2025/10/23,22,4.8,New York,Active
+EMP0256,Patricia,Perez,63.0,Male,DEP006,Sales,Junior,117347.0,2020-03-05,42,4.6,Seattle,Active
+EMP0257,Anthony,Perez,38.0,Non-Binary,DEP005,Human Resources,Senior,53499.0,2023/11/30,14,2.0,Seattle,Active
+EMP0258,Thomas,Taylor,61.0,Female,DEP005,Human Resources,Director,111631.0,2018-11-27,40,1.9,Chicago,Active
+EMP0259,Linda,Jackson,52.0,Male,DEP002,Data Science,Junior,89342.0,18-09-2023,29,1.5,Boston,Active
+EMP0260,Patricia,Brown,63.0,Male,DEP003,Product Management,Senior,124183.0,08-07-2020,41,5.0,Seattle,Terminated
+EMP0261,Donald,Martin,28.0,Non-Binary,DEP001,Engineering,Junior,29324.67,2023-08-23,7,4.5,New York,Active
+EMP0262,David,Brown,51.0,Non-Binary,DEP004,Marketing,Junior,91358.67,2025-03-27,28,2.9,New York,Active
+EMP0263,Mary,Perez,52.0,Non-Binary,DEP005,Human Resources,Mid-Level,85614.0,2023-03-15,27,3.0,Seattle,Active
+EMP0264,Joseph,Perez,26.0,Non-Binary,DEP001,Engineering,Manager,29897.67,2023-12-30,3,2.6,Seattle,Terminated
+EMP0265,Patricia,Smith,37.0,Male,DEP006,Sales,Manager,44364.0,2023-06-16,13,3.8,Atlanta,Active
+EMP0266,Joseph,Moore,53.0,Female,DEP001,Engineering,Mid-Level,,14-05-2020,30,2.7,Chicago,Active
+EMP0267,Betty,Wilson,,Non-Binary,DEP001,Engineering,Junior,89344.67,2022/03/26,29,1.9,Chicago,Terminated
+EMP0268,Patricia,Davis,54.0,Female,DEP003,Product Management,Manager,90089.0,2021-11-18,29,3.8,Boston,Terminated
+EMP0269,Daniel,Lee,50.0,Female,DEP003,Product Management,Manager,88296.0,20-11-2019,29,4.2,New York,Active
+EMP0270,Betty,Miller,30.0,Male,DEP004,Marketing,Director,24418.67,01-09-2019,6,2.4,New York,Terminated
+EMP0271,William,Thomas,,Non-Binary,DEP006,Sales,Junior,113850.0,2021-11-22,38,4.6,Chicago,Active
+EMP0272,Christopher,Taylor,33.0,Female,DEP005,Human Resources,Manager,29845.0,03-02-2019,8,4.1,Austin,Active
+EMP0273,Karen,Thompson,40.0,Female,DEP003,Product Management,Director,67385.0,2021-07-06,16,2.0,San Francisco,Active
+EMP0274,Barbara,Taylor,61.0,Non-Binary,DEP002,Data Science,Senior,119249.0,20-09-2023,38,2.7,Chicago,Active
+EMP0275,Margaret,Smith,58.0,Male,DEP005,Human Resources,Lead,103046.0,2025-02-27,34,4.1,San Francisco,Active
+EMP0276,John,Lopez,40.0,Male,DEP002,Data Science,Manager,57899.0,2023-11-16,17,4.4,Atlanta,Active
+EMP0277,Patricia,Gonzalez,63.0,Non-Binary,DEP006,Sales,Senior,107571.0,2024-09-02,38,2.3,Boston,Active
+EMP0278,Richard,White,61.0,Female,DEP002,Data Science,Lead,119098.0,2023-05-24,37,2.3,San Francisco,Active
+EMP0279,Thomas,Smith,54.0,Non-Binary,DEP006,Sales,Mid-Level,,2020/05/17,33,1.6,Chicago,Active
+EMP0280,Christopher,Taylor,61.0,Male,DEP006,Sales,Manager,,2022-09-06,38,4.3,Seattle,On Leave
+EMP0281,Charles,Miller,47.0,Non-Binary,DEP005,Human Resources,Manager,77724.0,2019-10-25,26,2.3,Atlanta,Terminated
+EMP0282,John,Perez,29.0,Female,DEP001,Engineering,Junior,33967.67,2023-06-19,6,2.3,Austin,Active
+EMP0283,Richard,Hernandez,45.0,Male,DEP005,Human Resources,Mid-Level,70153.0,21-02-2022,20,3.3,Chicago,Active
+EMP0284,Michael,Miller,26.0,Non-Binary,DEP006,Sales,Director,27182.0,2019-10-25,4,3.7,New York,Terminated
+EMP0285,Patricia,Garcia,31.0,Non-Binary,DEP006,Sales,Junior,38723.0,28-04-2018,10,4.0,Austin,Active
+EMP0286,Robert,White,50.0,Non-Binary,DEP004,Marketing,Junior,79760.67,2021-04-25,26,2.6,Austin,Terminated
+EMP0287,Mary,Thomas,60.0,Male,DEP003,Product Management,Mid-Level,116312.0,2021-09-21,39,4.2,Atlanta,On Leave
+EMP0288,Lisa,Smith,62.0,Non-Binary,DEP003,Product Management,Mid-Level,119083.0,2025-10-11,40,,Chicago,Active
+EMP0289,Anthony,Lee,57.0,Male,DEP005,Human Resources,Mid-Level,101992.0,2024-04-22,36,2.2,Austin,Active
+EMP0290,Sandra,Lee,33.0,Female,DEP001,Engineering,Director,,2024-05-22,8,1.7,Boston,On Leave
+EMP0291,Robert,Miller,43.0,Female,DEP004,Marketing,Senior,59766.67,30-12-2019,20,3.8,Chicago,Active
+EMP0292,Christopher,Davis,58.0,Non-Binary,DEP005,Human Resources,Director,107733.0,23-08-2021,35,2.6,Austin,Active
+EMP0293,Barbara,Lee,43.0,Female,DEP006,Sales,Mid-Level,61283.0,2024-08-04,19,3.1,Boston,Terminated
+EMP0294,Susan,Johnson,26.0,Non-Binary,DEP001,Engineering,Manager,38085.67,2018-04-07,5,3.3,Austin,Active
+EMP0295,Lisa,Taylor,,Male,DEP002,Data Science,Manager,105193.0,05-05-2022,36,3.1,San Francisco,Active
+EMP0296,Daniel,Johnson,33.0,Female,DEP002,Data Science,Mid-Level,,2019-03-31,8,3.8,New York,Terminated
+EMP0297,Christopher,Brown,55.0,Non-Binary,DEP002,Data Science,Director,99358.0,2021/11/13,32,3.1,Austin,On Leave
+EMP0298,Robert,Taylor,58.0,Male,DEP005,Human Resources,Manager,103171.0,2021-02-08,36,3.8,Austin,Active
+EMP0299,Robert,Taylor,60.0,Male,DEP004,Marketing,Mid-Level,113388.67,28-09-2021,39,4.6,Boston,Active
+EMP0300,Susan,Jackson,36.0,Female,DEP006,Sales,Junior,49490.0,2018-12-19,12,2.7,Chicago,Active
+EMP0301,Thomas,Garcia,62.0,Female,DEP002,Data Science,Manager,106142.0,02-04-2019,37,4.6,Boston,Terminated
+EMP0302,Anthony,Martin,40.0,Non-Binary,DEP006,Sales,Mid-Level,57248.0,2022/01/04,19,3.1,San Francisco,Terminated
+EMP0303,Mary,Miller,43.0,Non-Binary,DEP006,Sales,Director,63473.0,2019/12/16,19,3.6,New York,Active
+EMP0304,Mark,Perez,61.0,Non-Binary,DEP004,Marketing,Manager,98305.67,2022/07/10,36,4.6,Atlanta,Terminated
+EMP0305,Mark,Gonzalez,49.0,Non-Binary,DEP006,Sales,Director,73092.0,2018-05-15,24,2.8,Austin,Active
+EMP0306,James,Thompson,27.0,Male,DEP002,Data Science,Manager,32802.0,23-06-2021,4,4.6,Seattle,Terminated
+EMP0307,Margaret,Jackson,42.0,Female,DEP002,Data Science,Director,63935.0,2021-08-16,18,1.9,Chicago,On Leave
+EMP0308,Betty,White,33.0,Non-Binary,DEP004,Marketing,Junior,41826.67,2020-02-28,10,3.4,Boston,Active
+EMP0309,Patricia,Garcia,35.0,Non-Binary,DEP001,Engineering,Junior,43228.67,2024-10-24,10,4.3,Seattle,On Leave
+EMP0310,Betty,Martin,27.0,Female,DEP004,Marketing,Director,26976.67,2018-09-06,6,2.3,Atlanta,Active
+EMP0311,Richard,Johnson,53.0,Non-Binary,DEP006,Sales,Manager,78875.0,2023-08-03,29,2.2,Boston,Active
+EMP0312,Betty,Gonzalez,37.0,Non-Binary,DEP003,Product Management,Junior,56779.0,2020-05-07,16,1.8,New York,On Leave
+EMP0313,Richard,Anderson,57.0,Non-Binary,DEP003,Product Management,Junior,99903.0,08-12-2024,32,2.7,New York,On Leave
+EMP0314,Thomas,Thompson,54.0,Female,DEP001,Engineering,Manager,94736.67,2024-10-30,31,4.8,Austin,Active
+EMP0315,Matthew,Lee,51.0,Male,DEP006,Sales,Director,85323.0,28-12-2018,26,1.6,Seattle,Active
+EMP0316,Betty,Perez,56.0,Female,DEP005,Human Resources,Junior,105982.0,11-02-2020,35,4.4,Austin,Active
+EMP0317,Richard,Davis,58.0,Female,DEP002,Data Science,Mid-Level,103494.0,2023/10/24,35,4.8,Atlanta,On Leave
+EMP0318,James,Moore,31.0,Female,DEP003,Product Management,Senior,41164.0,2023-10-01,10,4.7,Chicago,Active
+EMP0319,Margaret,Thomas,33.0,Male,DEP004,Marketing,Manager,32257.67,2024/05/19,8,2.9,Atlanta,Active
+EMP0320,Susan,Gonzalez,29.0,Female,DEP004,Marketing,Senior,25203.67,27-01-2018,4,2.6,Chicago,Active
+EMP0321,Lisa,Lopez,39.0,Female,DEP002,Data Science,Lead,60544.0,2019-07-26,15,2.7,Chicago,Terminated
+EMP0322,Elizabeth,Thomas,28.0,Male,DEP002,Data Science,Lead,38674.0,2021/09/04,5,2.3,Atlanta,Terminated
+EMP0323,Betty,Brown,56.0,Male,DEP005,Human Resources,Mid-Level,102366.0,2020-02-19,33,3.2,Boston,Active
+EMP0324,Mary,Wilson,43.0,Non-Binary,DEP004,Marketing,Manager,63580.67,2022-09-29,20,2.8,Boston,On Leave
+EMP0325,Jennifer,Gonzalez,40.0,Female,DEP002,Data Science,Director,60826.0,2022-02-23,17,3.9,Boston,Active
+EMP0326,David,Hernandez,62.0,Female,DEP004,Marketing,Director,109531.67,19-09-2025,37,2.9,Boston,Active
+EMP0327,Mary,Jones,50.0,Non-Binary,DEP003,Product Management,Senior,93953.0,2021/10/30,27,3.6,New York,Active
+EMP0328,Betty,Taylor,47.0,Male,DEP002,Data Science,Junior,79565.0,2025/06/22,26,1.7,Boston,Active
+EMP0329,David,Smith,,Female,DEP003,Product Management,Senior,61284.0,01-05-2023,14,2.5,Atlanta,On Leave
+EMP0330,Sandra,Lee,57.0,Non-Binary,DEP003,Product Management,Lead,98913.0,2023-12-08,33,4.9,Austin,Active
+EMP0331,Karen,Smith,,Male,DEP004,Marketing,Senior,105850.67,2020-08-14,34,1.8,Boston,Active
+EMP0332,Lisa,Miller,41.0,Non-Binary,DEP004,Marketing,Lead,70214.67,2020-06-29,20,3.0,Boston,Terminated
+EMP0333,Sarah,Martinez,46.0,Non-Binary,DEP004,Marketing,Senior,71974.67,27-04-2023,24,1.8,San Francisco,Active
+EMP0334,Mary,Jones,,Non-Binary,DEP003,Product Management,Junior,36820.0,2023/12/17,5,3.1,Austin,Active
+EMP0335,Karen,Thomas,50.0,Female,DEP006,Sales,Director,82514.0,2018-02-15,29,1.8,Atlanta,Active
+EMP0336,Thomas,Gonzalez,39.0,Male,DEP001,Engineering,Director,50335.67,19-07-2019,15,3.4,Seattle,Active
+EMP0337,Mark,Gonzalez,24.0,Female,DEP006,Sales,Senior,18750.0,2018-10-19,2,4.1,Boston,On Leave
+EMP0338,Susan,Brown,29.0,Female,DEP005,Human Resources,Senior,,2019/09/10,6,3.7,Chicago,Active
+EMP0339,Lisa,Williams,37.0,Female,DEP004,Marketing,Junior,48354.67,2023-11-17,16,3.5,Atlanta,Terminated
+EMP0340,Joseph,Hernandez,25.0,Non-Binary,DEP001,Engineering,Senior,27226.67,2022/07/25,2,2.0,San Francisco,Active
+EMP0341,Donald,Moore,46.0,Non-Binary,DEP006,Sales,Lead,75568.0,24-08-2025,23,2.0,Austin,Active
+EMP0342,Elizabeth,Anderson,51.0,Female,DEP006,Sales,Manager,90415.0,2025/10/12,28,,Boston,On Leave
+EMP0343,Robert,Perez,33.0,Female,DEP004,Marketing,Mid-Level,47819.67,2024-08-07,12,4.5,Chicago,Active
+EMP0344,Robert,Johnson,40.0,Male,DEP005,Human Resources,Mid-Level,56214.0,10-12-2018,17,3.7,Seattle,Active
+EMP0345,Thomas,Johnson,24.0,Non-Binary,DEP001,Engineering,Director,,2023-08-07,0,4.4,San Francisco,Terminated
+EMP0346,Anthony,Lopez,27.0,Male,DEP004,Marketing,Manager,28289.67,2021-01-26,3,3.7,New York,Active
+EMP0347,Jessica,Jackson,35.0,Male,DEP001,Engineering,Manager,38257.67,2019/12/19,10,1.9,New York,Terminated
+EMP0348,Barbara,Moore,44.0,Female,DEP005,Human Resources,Director,68510.0,05-07-2025,20,3.8,Seattle,Active
+EMP0349,Christopher,Martin,57.0,Non-Binary,DEP003,Product Management,Mid-Level,113042.0,2024-07-02,34,2.8,Boston,Active
+EMP0350,William,Martinez,,Male,DEP003,Product Management,Mid-Level,85705.0,2018-04-18,26,,Atlanta,Terminated
+EMP0351,John,Anderson,57.0,Male,DEP003,Product Management,Senior,103314.0,11-11-2022,32,3.5,San Francisco,Active
+EMP0352,Mark,Garcia,27.0,Non-Binary,DEP003,Product Management,Director,25750.0,2019-11-07,2,3.5,Chicago,Terminated
+EMP0353,Margaret,Wilson,24.0,Male,DEP003,Product Management,Mid-Level,20451.0,2018-06-23,0,1.8,New York,Terminated
+EMP0354,Joseph,Jones,46.0,Non-Binary,DEP006,Sales,Lead,73693.0,2020/09/19,25,3.3,Chicago,On Leave
+EMP0355,Jennifer,Thomas,36.0,Male,DEP001,Engineering,Manager,46413.67,05-04-2019,12,4.3,Chicago,Active
+EMP0356,Jessica,Davis,30.0,Female,DEP006,Sales,Senior,34079.0,2022-02-24,8,3.5,New York,Terminated
+EMP0357,Karen,Garcia,49.0,Non-Binary,DEP004,Marketing,Lead,78372.67,2020/12/06,26,2.2,Atlanta,Active
+EMP0358,Patricia,Davis,45.0,Male,DEP002,Data Science,Senior,,24-09-2018,23,4.0,New York,Active
+EMP0359,Thomas,Moore,52.0,Non-Binary,DEP004,Marketing,Mid-Level,90603.67,30-07-2022,31,2.2,Seattle,On Leave
+EMP0360,Sarah,Johnson,55.0,Male,DEP006,Sales,Junior,95385.0,01-06-2020,34,2.1,Atlanta,Terminated
+EMP0361,Michael,Hernandez,28.0,Non-Binary,DEP003,Product Management,Manager,36492.0,2023-07-11,7,4.5,Seattle,On Leave
+EMP0362,David,Smith,23.0,Female,DEP006,Sales,Senior,15253.0,2020-08-05,2,4.7,Chicago,Active
+EMP0363,Sarah,Davis,62.0,Female,DEP001,Engineering,Director,123562.67,2024-12-06,39,2.9,Chicago,Terminated
+EMP0364,Nancy,Anderson,62.0,Male,DEP005,Human Resources,Director,113837.0,2019-04-20,40,2.3,Atlanta,Active
+EMP0365,David,Hernandez,41.0,Non-Binary,DEP002,Data Science,Director,67902.0,2025/09/25,16,2.0,San Francisco,Terminated
+EMP0366,Sarah,Jones,42.0,Male,DEP001,Engineering,Mid-Level,63403.67,2024-05-05,18,2.6,Chicago,On Leave
+EMP0367,Mary,Lopez,60.0,Female,DEP003,Product Management,Mid-Level,111732.0,23-12-2019,35,2.3,Boston,Terminated
+EMP0368,John,Wilson,33.0,Male,DEP003,Product Management,Senior,44751.0,24-05-2019,9,3.2,Boston,Active
+EMP0369,Jessica,Wilson,26.0,Male,DEP002,Data Science,Manager,30197.0,2022-03-03,4,4.5,Austin,Active
+EMP0370,Michael,Anderson,58.0,Male,DEP005,Human Resources,Mid-Level,98284.0,2025/06/13,33,3.3,Boston,Active
+EMP0371,Donald,Gonzalez,46.0,Female,DEP005,Human Resources,Lead,72036.0,03-06-2018,21,3.7,New York,Terminated
+EMP0372,William,Gonzalez,31.0,Female,DEP005,Human Resources,Junior,38096.0,2018/10/08,7,3.8,Boston,Active
+EMP0373,Linda,Williams,27.0,Female,DEP004,Marketing,Director,22975.67,2025/09/19,4,3.9,Seattle,Terminated
+EMP0374,Elizabeth,Garcia,61.0,Male,DEP005,Human Resources,Director,,2018-05-17,39,3.4,Boston,Active
+EMP0375,Thomas,Smith,62.0,Female,DEP003,Product Management,Manager,116126.0,23-09-2019,40,4.6,Seattle,Active
+EMP0376,Sarah,Martin,59.0,Male,DEP002,Data Science,Junior,107934.0,2018/09/04,35,2.9,Austin,Active
+EMP0377,Anthony,Garcia,24.0,Female,DEP002,Data Science,Manager,26730.0,2020/10/25,0,3.6,Chicago,On Leave
+EMP0378,Matthew,Williams,51.0,Non-Binary,DEP002,Data Science,Junior,83901.0,2018-10-17,26,4.8,Boston,Active
+EMP0379,Jennifer,Thomas,55.0,Non-Binary,DEP003,Product Management,Director,100295.0,2019/10/12,31,2.2,Austin,Active
+EMP0380,Ashley,Thomas,58.0,Non-Binary,DEP005,Human Resources,Mid-Level,95297.0,2023-03-24,33,4.7,New York,Active
+EMP0381,John,Hernandez,51.0,Non-Binary,DEP001,Engineering,Mid-Level,,2024-10-20,30,4.5,Austin,Active
+EMP0382,Nancy,Hernandez,41.0,Non-Binary,DEP001,Engineering,Manager,64967.67,11-07-2024,18,3.4,San Francisco,Active
+EMP0383,Nancy,Anderson,52.0,Female,DEP003,Product Management,Director,,2019-02-26,28,1.6,Chicago,Terminated
+EMP0384,Daniel,Williams,42.0,Female,DEP006,Sales,Junior,57479.0,2022-11-29,17,1.6,Chicago,Active
+EMP0385,Christopher,Thompson,,Female,DEP005,Human Resources,Junior,100070.0,2025-05-10,36,3.6,Seattle,Active
+EMP0386,Richard,Williams,55.0,Male,DEP002,Data Science,Lead,95867.0,04-09-2024,32,1.9,Austin,Active
+EMP0387,William,Miller,55.0,Female,DEP006,Sales,Lead,98906.0,2024-07-18,32,2.6,New York,Active
+EMP0388,Karen,Smith,60.0,Female,DEP001,Engineering,Director,114626.67,24-05-2018,39,3.1,San Francisco,Active
+EMP0389,David,Rodriguez,56.0,Non-Binary,DEP003,Product Management,Manager,109361.0,01-01-2019,33,3.0,Austin,On Leave
+EMP0390,Robert,Martinez,39.0,Female,DEP003,Product Management,Manager,68240.0,19-11-2022,17,4.3,Seattle,Terminated
+EMP0391,Donald,Martin,28.0,Female,DEP001,Engineering,Mid-Level,22547.67,02-05-2021,4,1.8,Chicago,Active
+EMP0392,Karen,Perez,58.0,Female,DEP004,Marketing,Lead,99188.67,2025/10/28,36,4.3,Atlanta,On Leave
+EMP0393,Christopher,Anderson,45.0,Male,DEP003,Product Management,Lead,69704.0,2023-08-29,21,3.9,Atlanta,Active
+EMP0394,Michael,Hernandez,44.0,Male,DEP003,Product Management,Senior,71115.0,2018-11-16,19,1.9,Seattle,Active
+EMP0395,Susan,Thompson,37.0,Female,DEP005,Human Resources,Manager,39605.0,07-04-2021,12,4.9,San Francisco,Active
+EMP0396,Michael,Anderson,26.0,Female,DEP006,Sales,Junior,22409.0,2023-01-14,1,3.2,Chicago,Active
+EMP0397,James,Jones,53.0,Female,DEP003,Product Management,Manager,95683.0,2019-03-08,32,2.3,Seattle,Active
+EMP0398,Margaret,Thompson,42.0,Female,DEP002,Data Science,Junior,69843.0,2023-10-13,19,4.3,Chicago,Active
+EMP0399,Daniel,Brown,40.0,Male,DEP002,Data Science,Mid-Level,66549.0,15-06-2018,19,4.7,Boston,Active
+EMP0400,Richard,Moore,46.0,Female,DEP006,Sales,Lead,67451.0,2019-10-19,22,3.0,Boston,Active
+EMP0401,William,Williams,22.0,Female,DEP002,Data Science,Lead,26123.0,2024-02-20,1,1.6,Seattle,On Leave
+EMP0402,Margaret,Martin,,Female,DEP002,Data Science,Director,84948.0,2021-10-30,26,3.4,Seattle,On Leave
+EMP0403,Jennifer,Jones,45.0,Non-Binary,DEP005,Human Resources,Senior,67620.0,2023-12-30,24,3.5,Chicago,Active
+EMP0404,Nancy,Moore,52.0,Female,DEP002,Data Science,Lead,101707.0,2024-10-15,31,3.7,Boston,Active
+EMP0405,Thomas,Johnson,44.0,Non-Binary,DEP004,Marketing,Mid-Level,64904.67,2023-11-30,21,2.1,Austin,Terminated
+EMP0406,Sarah,Rodriguez,23.0,Female,DEP005,Human Resources,Senior,14942.0,20-04-2022,0,,New York,On Leave
+EMP0407,Jessica,Thomas,59.0,Non-Binary,DEP002,Data Science,Junior,116299.0,14-11-2024,37,3.1,San Francisco,On Leave
+EMP0408,Susan,Jackson,53.0,Female,DEP002,Data Science,Junior,98121.0,2023-08-15,29,2.8,New York,Active
+EMP0409,Joseph,Gonzalez,51.0,Female,DEP002,Data Science,Lead,88302.0,2024-05-07,27,2.6,Seattle,Active
+EMP0410,Daniel,Wilson,50.0,Non-Binary,DEP003,Product Management,Senior,90316.0,2022/07/06,26,2.6,New York,Active
+EMP0411,Richard,Taylor,59.0,Non-Binary,DEP006,Sales,Mid-Level,101254.0,16-05-2024,35,,New York,Active
+EMP0412,Thomas,Miller,,Non-Binary,DEP001,Engineering,Junior,,2021-10-17,27,1.9,Atlanta,Active
+EMP0413,Barbara,Brown,62.0,Female,DEP005,Human Resources,Senior,121101.0,2018/09/26,41,4.9,Boston,Active
+EMP0414,Patricia,Gonzalez,49.0,Male,DEP003,Product Management,Senior,83416.0,18-08-2018,26,2.1,Seattle,Active
+EMP0415,Margaret,Miller,34.0,Male,DEP004,Marketing,Lead,36598.67,09-03-2022,9,2.1,New York,Active
+EMP0416,John,Perez,38.0,Male,DEP005,Human Resources,Director,42307.0,2019/04/08,14,4.6,New York,On Leave
+EMP0417,Joseph,Smith,53.0,Non-Binary,DEP006,Sales,Lead,85844.0,2024-03-11,29,2.9,Austin,Active
+EMP0418,Nancy,Williams,41.0,Female,DEP006,Sales,Director,49604.0,04-07-2023,17,3.7,Seattle,Terminated
+EMP0419,Donald,White,41.0,Male,DEP002,Data Science,Mid-Level,,2023/11/11,17,1.9,San Francisco,Active
+EMP0420,Mary,Johnson,26.0,Female,DEP004,Marketing,Director,,2022-07-17,1,2.6,Atlanta,Terminated
+EMP0421,Joseph,Williams,,Male,DEP006,Sales,Lead,94809.0,26-07-2022,31,4.5,Chicago,Active
+EMP0422,Michael,Anderson,63.0,Non-Binary,DEP002,Data Science,Junior,115735.0,2018-06-05,41,2.1,Seattle,On Leave
+EMP0423,Betty,Hernandez,36.0,Non-Binary,DEP005,Human Resources,Manager,57680.0,2020-11-14,15,2.2,Atlanta,Active
+EMP0424,Anthony,Garcia,59.0,Non-Binary,DEP001,Engineering,Mid-Level,109662.67,30-04-2020,37,1.7,New York,Active
+EMP0425,James,Garcia,62.0,Non-Binary,DEP001,Engineering,Director,110328.67,2018/02/18,37,4.2,Boston,Active
+EMP0426,Barbara,Martin,30.0,Non-Binary,DEP006,Sales,Mid-Level,28544.0,2022-06-14,8,3.7,New York,Terminated
+EMP0427,Michael,Martin,44.0,Non-Binary,DEP003,Product Management,Manager,64274.0,20-08-2019,20,3.5,Boston,Active
+EMP0428,Ashley,Garcia,25.0,Male,DEP003,Product Management,Junior,23546.0,2023-10-30,3,4.3,Seattle,Active
+EMP0429,Mary,Thomas,61.0,Male,DEP003,Product Management,Mid-Level,107409.0,2018/06/12,37,1.9,Austin,Active
+EMP0430,Anthony,Miller,42.0,Male,DEP002,Data Science,Junior,75762.0,09-12-2019,20,1.9,Seattle,Active
+EMP0431,Daniel,Rodriguez,61.0,Male,DEP002,Data Science,Junior,108417.0,2019/02/28,37,2.9,San Francisco,Active
+EMP0432,David,Jackson,51.0,Male,DEP004,Marketing,Junior,77970.67,2019-11-15,27,4.2,Atlanta,Active
+EMP0433,Christopher,Wilson,52.0,Non-Binary,DEP005,Human Resources,Mid-Level,81573.0,2021-08-23,28,1.6,Seattle,Active
+EMP0434,Michael,Anderson,52.0,Male,DEP001,Engineering,Manager,79716.67,2021-05-10,27,3.0,Seattle,Active
+EMP0435,Karen,Garcia,44.0,Non-Binary,DEP002,Data Science,Director,69416.0,09-10-2018,21,3.8,Seattle,Active
+EMP0436,Robert,Gonzalez,47.0,Female,DEP006,Sales,Manager,,2023-05-02,25,4.6,Austin,Terminated
+EMP0437,Nancy,White,56.0,Non-Binary,DEP005,Human Resources,Director,97516.0,29-10-2023,31,2.2,Seattle,Active
+EMP0438,Susan,Jones,61.0,Male,DEP004,Marketing,Manager,113655.67,2023/07/07,40,2.8,Atlanta,On Leave
+EMP0439,Patricia,Williams,35.0,Female,DEP006,Sales,Lead,43950.0,2020-04-10,13,2.7,Seattle,Terminated
+EMP0440,Robert,Miller,56.0,Female,DEP005,Human Resources,Junior,96905.0,2024-10-21,33,3.7,Austin,Active
+EMP0441,Susan,Taylor,32.0,Male,DEP001,Engineering,Senior,36001.67,23-03-2022,9,3.9,San Francisco,Active
+EMP0442,Mary,Davis,48.0,Non-Binary,DEP003,Product Management,Director,86286.0,24-06-2020,24,3.8,Boston,Terminated
+EMP0443,William,Martinez,53.0,Female,DEP003,Product Management,Mid-Level,95109.0,2025-02-28,28,3.9,Atlanta,Active
+EMP0444,Charles,Garcia,44.0,Non-Binary,DEP002,Data Science,Director,72969.0,2023-04-07,21,4.8,San Francisco,Active
+EMP0445,John,Perez,24.0,Female,DEP001,Engineering,Mid-Level,23579.67,2020-03-20,1,1.9,San Francisco,On Leave
+EMP0446,Sandra,Hernandez,29.0,Non-Binary,DEP003,Product Management,Manager,40828.0,15-07-2024,8,4.8,Boston,Active
+EMP0447,Nancy,Thompson,40.0,Female,DEP004,Marketing,Junior,56092.67,2022-10-23,15,2.0,Austin,Active
+EMP0448,Richard,Jackson,61.0,Female,DEP004,Marketing,Mid-Level,,10-10-2020,39,2.8,Seattle,Terminated
+EMP0449,Patricia,Perez,27.0,Male,DEP006,Sales,Director,17662.0,2020-09-14,2,2.2,Austin,Active
+EMP0450,Donald,White,44.0,Female,DEP003,Product Management,Senior,71747.0,2025-06-09,21,4.9,Seattle,Terminated
+EMP0451,Nancy,Williams,30.0,Non-Binary,DEP004,Marketing,Lead,29962.67,2019-10-08,5,1.8,Austin,Active
+EMP0452,Barbara,Gonzalez,57.0,Female,DEP002,Data Science,Junior,107136.0,13-10-2025,33,3.5,Chicago,Active
+EMP0453,Karen,Lee,57.0,Female,DEP004,Marketing,Junior,93844.67,08-01-2018,33,1.6,Seattle,Active
+EMP0454,Lisa,Jackson,63.0,Female,DEP004,Marketing,Senior,110632.67,2020-05-11,41,1.9,Boston,Active
+EMP0455,Sandra,Thompson,54.0,Male,DEP003,Product Management,Junior,86987.0,2019/05/21,29,4.5,Austin,Active
+EMP0456,Barbara,Brown,40.0,Male,DEP003,Product Management,Manager,62168.0,16-05-2022,15,4.8,Atlanta,Terminated
+EMP0457,Charles,Lopez,39.0,Female,DEP003,Product Management,Senior,55770.0,2020/12/28,16,3.4,San Francisco,Active
+EMP0458,Linda,Wilson,36.0,Male,DEP005,Human Resources,Junior,55027.0,2023-03-21,14,4.6,Seattle,Active
+EMP0459,Barbara,Thompson,45.0,Non-Binary,DEP003,Product Management,Junior,85086.0,2023-01-31,23,3.0,San Francisco,Terminated
+EMP0460,Linda,Williams,,Female,DEP002,Data Science,Lead,,2018-09-02,19,2.0,Atlanta,Terminated
+EMP0461,Karen,Perez,,Male,DEP005,Human Resources,Junior,109685.0,26-02-2020,38,1.9,San Francisco,Active
+EMP0462,Daniel,Lopez,44.0,Non-Binary,DEP006,Sales,Director,65187.0,2024-05-07,23,2.0,New York,Active
+EMP0463,James,White,22.0,Male,DEP005,Human Resources,Manager,10555.0,25-05-2020,0,4.0,Boston,On Leave
+EMP0464,Anthony,Brown,50.0,Female,DEP002,Data Science,Junior,88463.0,2021-03-25,29,4.4,Seattle,Active
+EMP0465,Sandra,Martin,40.0,Non-Binary,DEP006,Sales,Lead,55531.0,2020-10-16,15,1.6,Atlanta,Active
+EMP0466,Michael,Gonzalez,26.0,Non-Binary,DEP002,Data Science,Director,29126.0,2018-02-09,2,2.8,Seattle,Terminated
+EMP0467,Betty,Brown,28.0,Female,DEP005,Human Resources,Director,23060.0,2019-09-11,6,2.8,Atlanta,On Leave
+EMP0468,Sarah,Jones,39.0,Male,DEP005,Human Resources,Junior,50334.0,2023-02-17,15,3.2,Boston,Active
+EMP0469,Barbara,Gonzalez,28.0,Female,DEP001,Engineering,Mid-Level,42769.67,08-10-2023,7,1.7,Atlanta,Active
+EMP0470,Thomas,Moore,55.0,Non-Binary,DEP006,Sales,Manager,,2020-07-01,31,3.1,Seattle,Active
+EMP0471,Barbara,Moore,50.0,Female,DEP004,Marketing,Director,89139.67,29-11-2021,27,2.8,Austin,Terminated
+EMP0472,Mark,Thomas,53.0,Male,DEP004,Marketing,Manager,,2023-08-13,32,3.9,Chicago,Active
+EMP0473,Lisa,Lopez,44.0,Non-Binary,DEP005,Human Resources,Junior,64750.0,09-01-2023,21,1.7,Seattle,Active
+EMP0474,Jessica,Lee,44.0,Male,DEP004,Marketing,Director,,17-08-2023,21,2.7,Austin,Active
+EMP0475,Anthony,Rodriguez,,Female,DEP001,Engineering,Manager,,2025-05-06,33,3.1,Chicago,Active
+EMP0476,Nancy,Garcia,58.0,Female,DEP003,Product Management,Lead,119943.0,2023-11-17,37,3.2,Atlanta,Active
+EMP0477,Jennifer,Thompson,35.0,Male,DEP005,Human Resources,Manager,41344.0,2022-11-17,12,1.7,Atlanta,On Leave
+EMP0478,Karen,Wilson,49.0,Female,DEP004,Marketing,Mid-Level,80856.67,2023-07-18,27,4.3,Chicago,Active
+EMP0479,Ashley,Miller,57.0,Non-Binary,DEP006,Sales,Lead,108132.0,2023/12/26,35,1.6,Atlanta,On Leave
+EMP0480,Elizabeth,White,58.0,Female,DEP004,Marketing,Lead,108722.67,07-12-2021,37,2.2,New York,Terminated
+EMP0481,Jessica,Gonzalez,48.0,Male,DEP002,Data Science,Mid-Level,,14-05-2019,25,2.5,Austin,Active
+EMP0482,Sarah,Jones,,Female,DEP004,Marketing,Director,97080.67,25-04-2018,33,3.8,New York,Terminated
+EMP0483,Anthony,Lopez,23.0,Male,DEP004,Marketing,Lead,26749.67,2020-09-02,2,4.6,San Francisco,Active
+EMP0484,Thomas,Thomas,58.0,Male,DEP001,Engineering,Manager,96142.67,2025-01-19,33,3.3,Austin,On Leave
+EMP0485,Sarah,Anderson,46.0,Non-Binary,DEP006,Sales,Junior,73128.0,28-11-2018,24,2.3,New York,Active
+EMP0486,Lisa,Thomas,49.0,Female,DEP005,Human Resources,Junior,80685.0,2020-05-12,25,2.4,New York,Terminated
+EMP0487,Linda,Moore,25.0,Female,DEP006,Sales,Lead,,2020-08-18,3,3.4,Austin,Active
+EMP0488,Anthony,Johnson,37.0,Male,DEP001,Engineering,Lead,50112.67,2019-05-13,14,4.5,Atlanta,Active
+EMP0489,Christopher,Anderson,49.0,Male,DEP006,Sales,Director,89706.0,2020-03-21,28,2.1,Atlanta,Terminated
+EMP0490,Jessica,Taylor,22.0,Non-Binary,DEP002,Data Science,Mid-Level,16278.0,2020/09/01,0,3.7,Atlanta,Active
+EMP0491,Richard,Williams,52.0,Male,DEP004,Marketing,Lead,86936.67,2023-01-17,30,2.1,Chicago,Active
+EMP0492,Richard,Rodriguez,23.0,Male,DEP001,Engineering,Junior,22268.67,2019-12-12,0,3.6,Austin,Active
+EMP0493,Sandra,Perez,45.0,Male,DEP001,Engineering,Director,78459.67,2024-02-11,23,1.9,Atlanta,Active
+EMP0494,Charles,White,53.0,Female,DEP003,Product Management,Mid-Level,88833.0,2019-10-04,29,3.0,Austin,Active
+EMP0495,James,Thomas,61.0,Female,DEP002,Data Science,Director,120365.0,2022-12-17,37,2.4,Seattle,Terminated
+EMP0496,Jessica,Thomas,60.0,Non-Binary,DEP004,Marketing,Director,101362.67,02-07-2018,37,1.8,Boston,Active
+EMP0497,John,Jackson,38.0,Male,DEP001,Engineering,Manager,54318.67,2021/05/11,13,2.8,Seattle,Active
+EMP0498,Ashley,Rodriguez,42.0,Female,DEP001,Engineering,Senior,61259.67,2018-12-30,17,2.0,Atlanta,Active
+EMP0499,Elizabeth,Moore,42.0,Non-Binary,DEP005,Human Resources,Director,66625.0,2024-04-08,18,2.1,San Francisco,Active
+EMP0500,Ashley,Johnson,33.0,Non-Binary,DEP002,Data Science,Manager,50704.0,2024/01/03,12,2.4,Atlanta,Terminated
+EMP0501,David,White,29.0,Female,DEP002,Data Science,Manager,29533.0,01-06-2020,6,2.2,Chicago,Active
+EMP0502,Nancy,Smith,58.0,Non-Binary,DEP005,Human Resources,Junior,103822.0,2020-02-04,36,4.7,New York,Active
+EMP0503,Sarah,Martin,23.0,Female,DEP002,Data Science,Junior,25540.0,2023-08-12,2,4.4,Austin,Terminated
+EMP0504,Patricia,White,58.0,Non-Binary,DEP006,Sales,Lead,99663.0,2024-10-26,36,4.5,San Francisco,Active
+EMP0505,Elizabeth,Brown,23.0,Female,DEP001,Engineering,Director,16835.67,04-06-2021,1,2.9,Boston,On Leave
+EMP0506,Mark,Rodriguez,44.0,Female,DEP002,Data Science,Junior,84132.0,2019-09-13,23,2.8,Chicago,Active
+EMP0507,Elizabeth,Thomas,62.0,Non-Binary,DEP004,Marketing,Manager,104188.67,2020-11-27,38,1.6,New York,Active
+EMP0508,Margaret,Martinez,31.0,Non-Binary,DEP003,Product Management,Junior,47911.0,27-02-2025,9,4.7,Chicago,Active
+EMP0509,Thomas,Jackson,28.0,Non-Binary,DEP004,Marketing,Junior,28493.67,30-11-2024,4,4.0,San Francisco,Active
+EMP0510,Donald,Martin,24.0,Female,DEP004,Marketing,Mid-Level,21985.67,2020-07-13,3,4.6,Chicago,Active
+EMP0511,David,Lee,28.0,Non-Binary,DEP006,Sales,Lead,24955.0,12-05-2021,4,1.6,Chicago,Terminated
+EMP0512,Betty,Martinez,41.0,Male,DEP004,Marketing,Junior,60988.67,2021-01-25,16,4.9,Boston,Active
+EMP0513,Richard,Williams,35.0,Female,DEP001,Engineering,Mid-Level,49793.67,2020-01-22,11,,San Francisco,Active
+EMP0514,Betty,Johnson,50.0,Male,DEP006,Sales,Director,78924.0,2021-10-28,26,1.6,Seattle,Active
+EMP0515,Betty,Thomas,59.0,Non-Binary,DEP006,Sales,Manager,103177.0,22-06-2020,34,3.4,Atlanta,Active
+EMP0516,Anthony,Thomas,25.0,Non-Binary,DEP002,Data Science,Director,13311.0,2020-09-08,0,3.0,New York,Active
+EMP0517,Nancy,Martin,34.0,Non-Binary,DEP003,Product Management,Director,44833.0,27-04-2022,10,3.0,Boston,Terminated
+EMP0518,Susan,Martinez,48.0,Male,DEP004,Marketing,Director,83207.67,08-03-2025,25,3.2,San Francisco,On Leave
+EMP0519,Daniel,Rodriguez,28.0,Male,DEP004,Marketing,Mid-Level,25755.67,2019-10-13,4,2.6,New York,Active
+EMP0520,Thomas,Hernandez,49.0,Male,DEP003,Product Management,Manager,94318.0,13-10-2022,28,2.3,Boston,On Leave
+EMP0276,John,Lopez,40.0,Male,DEP002,Data Science,Manager,57899.0,2023-11-16,17,4.4,Atlanta,Active
+EMP0094,Christopher,Lee,33.0,Female,DEP001,Engineering,Junior,41767.67,2024-06-18,9,4.1,Atlanta,Active
+EMP0007,Jessica,White,63.0,Female,DEP002,Data Science,Director,116982.0,2023-06-21,39,4.6,Seattle,Active
+EMP0168,James,Martinez,62.0,Female,DEP006,Sales,Junior,118318.0,25-01-2021,40,2.9,Seattle,On Leave
+EMP0091,Anthony,Martinez,51.0,Male,DEP001,Engineering,Senior,100790.67,2021-08-26,30,2.6,Seattle,Terminated
+EMP0514,Betty,Johnson,50.0,Male,DEP006,Sales,Director,78924.0,2021-10-28,26,1.6,Seattle,Active
+EMP0363,Sarah,Davis,62.0,Female,DEP001,Engineering,Director,123562.67,2024-12-06,39,2.9,Chicago,Terminated
+EMP0229,Thomas,Perez,32.0,Male,DEP004,Marketing,Junior,,2019-08-14,11,2.7,Atlanta,Active
+EMP0193,William,Lee,32.0,Female,DEP001,Engineering,Junior,39145.67,22-08-2021,8,1.5,Austin,Terminated
+EMP0483,Anthony,Lopez,23.0,Male,DEP004,Marketing,Lead,26749.67,2020-09-02,2,4.6,San Francisco,Active
+EMP0219,Joseph,Garcia,23.0,Non-Binary,DEP002,Data Science,Mid-Level,13959.0,2022-01-05,0,4.3,Boston,Active
+EMP0181,Linda,Rodriguez,58.0,Female,DEP001,Engineering,Manager,117265.67,2019/08/04,37,4.6,Seattle,On Leave
+EMP0308,Betty,White,33.0,Non-Binary,DEP004,Marketing,Junior,41826.67,2020-02-28,10,3.4,Boston,Active
+EMP0509,Thomas,Jackson,28.0,Non-Binary,DEP004,Marketing,Junior,28493.67,30-11-2024,4,4.0,San Francisco,Active
+EMP0011,Jessica,Johnson,53.0,Non-Binary,DEP003,Product Management,Junior,96032.0,2025-06-23,32,4.8,New York,On Leave
