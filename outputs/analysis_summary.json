@@ -1,0 +1,47 @@
+{
+    "findings": [
+        "The highest paying department is Product Management with an average salary of 73560.58.",
+        "The lowest paying department is Sales with an average salary of 63972.23.",
+        "The average years of experience across employees is 20.6.",
+        "338 out of 520 employees currently have an 'Active' status.",
+        "There are 6 departments in the dataset."
+    ],
+    "department_summary": [
+        {
+            "department": "Data Science",
+            "employee_count": 83,
+            "avg_salary": 72288.36144578313,
+            "max_salary": 120365.0
+        },
+        {
+            "department": "Engineering",
+            "employee_count": 71,
+            "avg_salary": 65164.32676056338,
+            "max_salary": 123562.67
+        },
+        {
+            "department": "Human Resources",
+            "employee_count": 78,
+            "avg_salary": 72751.96153846153,
+            "max_salary": 121101.0
+        },
+        {
+            "department": "Marketing",
+            "employee_count": 87,
+            "avg_salary": 67065.84965517241,
+            "max_salary": 119910.67
+        },
+        {
+            "department": "Product Management",
+            "employee_count": 109,
+            "avg_salary": 73560.57798165138,
+            "max_salary": 124183.0
+        },
+        {
+            "department": "Sales",
+            "employee_count": 92,
+            "avg_salary": 63972.22826086957,
+            "max_salary": 118318.0
+        }
+    ]
+}

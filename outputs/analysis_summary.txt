@@ -1,0 +1,8 @@
+EXECUTIVE BRIEFING
+===================
+
+- The highest paying department is Product Management with an average salary of 73560.58.
+- The lowest paying department is Sales with an average salary of 63972.23.
+- The average years of experience across employees is 20.6.
+- 338 out of 520 employees currently have an 'Active' status.
+- There are 6 departments in the dataset.
